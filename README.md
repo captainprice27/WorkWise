@@ -1,3 +1,5 @@
+For general details , visit DETAILS.md (https://github.com/captainprice27/WorkWise/blob/main/DETAILS.md)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
